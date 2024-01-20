@@ -1,0 +1,17 @@
+{
+  "author": "mr.one",
+  "dependencies": {
+    "canvas": "2.9.0",
+    "path": "~0.12.7"
+  },
+  "deprecated": false,
+  "description": "Create captcha using canvas",
+  "license": "ISC",
+  "main": "index.js",
+  "name": "@Liv-Ai/captcha",
+  "version": "0.0.1",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+}
+

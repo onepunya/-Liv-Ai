@@ -1,0 +1,17 @@
+{
+  "author": "mr.one",
+  "dependencies": {
+    "crypto": "^1.0.1"
+  },
+  "deprecated": false,
+  "description": "License Checker",
+  "keywords": [],
+  "license": "ISC",
+  "main": "index.js",
+  "name": "@Liv-Ai/license",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "version": "1.0.0",
+
+}

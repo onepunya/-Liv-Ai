@@ -1,0 +1,28 @@
+{
+  "author": "LanBot",
+  "dependencies": {
+    "canvas": "2.9.0",
+    "path": "~0.12.7"
+  },
+  "deprecated": false,
+  "description": "Create captcha using canvas",
+  "license": "ISC",
+  "main": "index.js",
+  "name": "@lanbott/captcha",
+  "version": "0.0.1",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/LanBott/captcha.git"
+  },
+  "keywords": [
+    "npm"
+  ],
+  "bugs": {
+    "url": "https://github.com/LanBott/captcha/issues"
+  },
+  "homepage": "https://github.com/LanBott/captcha#readme"
+}
+
